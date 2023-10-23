@@ -1,0 +1,33 @@
+*{
+        margin: 0;
+        padding: 0;
+        text-decoration: rgb(87, 133, 174);
+        list-style: none;
+        box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: rgb(105, 134, 143);
+    height: 80px;
+    width: 100%;
+    color: rgb(231, 234, 237);
+}
+label.logo{
+    color: rgb(251, 251, 251);
+    font-size: 36px;
+    line-height: 80px;
+    padding:  10px;
+    font-weight: bolder;
+}
+
+nav ul li{
+    line-height: 30px;
+    margin: 10px;
+    display: inline-block;
+    text-shadow: rgb(91, 159, 159);
+
+}
+
+

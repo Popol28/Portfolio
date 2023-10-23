@@ -1,0 +1,33 @@
+*{
+    margin: 5px;
+    padding-left: 10px;
+    text-decoration: rgb(20, 21, 21);
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(11, 11, 11);
+    color: rgb(242, 242, 45);
+}
+a{
+    color: rgb(250, 244, 241);
+    padding: 10px;
+       
+}
+
+a:hover{
+    background-color: blue;
+    background-size: 1px;
+}
+h2{
+    text-align: center;
+    color: rgb(208, 234, 8);
+}
+p{
+    text-align: center;
+}
+
+
+
+
