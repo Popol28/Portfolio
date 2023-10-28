@@ -1,33 +1,41 @@
 *{
-        margin: 0;
-        padding: 0;
-        text-decoration: rgb(87, 133, 174);
-        list-style: none;
-        box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: rgb(75, 118, 156);
+    list-style: none;
+    box-sizing: border-box;
 }
 body{
-    font-family: 'Times New Roman', Times, serif;
+font-family: 'Times New Roman', Times, serif;
 }
 nav{
-    background-color: rgb(105, 134, 143);
-    height: 80px;
+    background-color: rgb(9, 10, 10);
+    height: 70px;
     width: 100%;
-    color: rgb(231, 234, 237);
-}
+    color: rgb(177, 185, 193);
+    }
+
 label.logo{
-    color: rgb(251, 251, 251);
+    color: rgb(228, 211, 211);
     font-size: 36px;
-    line-height: 80px;
+    line-height: 40px;
     padding:  10px;
     font-weight: bolder;
-}
+    }
 
 nav ul li{
-    line-height: 30px;
-    margin: 10px;
-    display: inline-block;
-    text-shadow: rgb(91, 159, 159);
-
+    margin: 5px;
+    display: inline-flex;
+    color: rgb(114, 114, 105);
 }
 
+h2{
+    text-align: right;
+    margin-top: 300px;
+    text-decoration-style: wavy;
+    color: rgb(241, 236, 231);
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
 
+}
