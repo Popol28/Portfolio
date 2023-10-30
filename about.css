@@ -25,14 +25,14 @@ nav{
     grid-area: navbar;
     background-color: rgb(148, 188, 171);
     height: 5vh;
-    justify-content: center;
+    justify-content: space-between;
     text-align: center;
     padding: 20px;
     font-weight: bolder;
     font-style: italic;
     display: flex;
-    
 }
+
 
 main{
     grid-area: main;
@@ -49,10 +49,20 @@ main p{
 
 #section1{
     background-color: darkcyan;
+    object-fit:;
     padding: 10px;
     height: 250px;
     font-weight: bolder;
+    text-align: center;
 }
+
+.photo{
+    object-fit: fill;
+    height: 200px;
+    width: 100%;
+}
+
+    
 
 #section2{
     grid-area: section2;
