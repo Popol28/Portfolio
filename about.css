@@ -61,8 +61,7 @@ main p{
     height: 200px;
     width: 100%;
 }
-
-    
+ 
 
 #section2{
     grid-area: section2;
@@ -97,6 +96,8 @@ footer{
     height: 60px;
     font-weight: bolder;
 }
+
+
 
 
 
