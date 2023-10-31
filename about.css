@@ -97,7 +97,12 @@ footer{
     font-weight: bolder;
 }
 
-
-
-
-
+@media(max-width:600px){
+    .container{
+        width: 100%;
+        padding: 0;
+        margin-bottom: auto;
+        background-color: transparent;
+    }
+}
+  
